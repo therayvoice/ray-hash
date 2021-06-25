@@ -1,8 +1,8 @@
 {
   "name": "ray-hash",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A crypto based NodeJS library for hashes, built for the development of ray-net.",
-  "main": "ray-hash.js",
+  "main": "ray-hash.min.js",
   "scripts": {
     "test": "node tests/mainTest.js",
     "start": "node ."
@@ -25,6 +25,6 @@
   "homepage": "https://github.com/Ray6464/ray-hash#readme",
   "dependencies": {
     "crypto": "^1.0.1",
-    "ray-fs": "^1.2.0"
+    "ray-fs": "^1.5.0"
   }
 }

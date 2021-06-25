@@ -3,7 +3,7 @@ const fs = require('ray-fs');
 const path = require('path');
 
 const rayHashAuthors = "Ray Voice and Anna Voice";
-const rayHashVersion = "v0.0.2";
+const rayHashVersion = "v0.1.0";
 
 module.exports = {
   value: 0,
